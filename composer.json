@@ -7,10 +7,7 @@
             "name": "Lucas Pelegrino",
             "email": "lucas.wxp@gmail.com"
         }
-    ],
-    "require": {
-        "alterfw/php-form-generator": "dev-master"
-    },
+    ],    
     "autoload": {
         "files": ["lib/load.php"]        
     }    
