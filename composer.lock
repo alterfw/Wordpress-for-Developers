@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "359318fb99e7e81042313f787c97cfbd",
+    "hash": "3fd11e23921482ce392171c4c17068b8",
     "packages": [
         {
             "name": "alterfw/php-form-generator",
@@ -26,6 +26,7 @@
                     "fg/load.php"
                 ]
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -36,9 +37,6 @@
                 }
             ],
             "description": "This library has the goal of make simple the creation and population of HTML forms",
-            "support": {
-                "source": "https://github.com/alterfw/PHP-Form-Generator-Lib/tree/master"
-            },
             "time": "2014-07-02 01:53:29"
         }
     ],
