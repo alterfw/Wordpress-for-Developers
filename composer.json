@@ -8,7 +8,6 @@
             "email": "lucas.wxp@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "alterfw/php-form-generator": "dev-master"
     },
