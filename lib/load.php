@@ -42,9 +42,6 @@ define('WD_BASE_URL', get_bloginfo('url') . '/wp-content/WD');
 	// pages functions
 	require_once dirname(__FILE__) . '/functions/pages.php';
 	
-	// form external
-	require_once dirname(__FILE__) . '/Externals/Form/fg/load.php';
-	
 	// wd form, is necessary include manually because the name do not follow the convention
 	require_once dirname(__FILE__) . '/Form/WD_Form.php';
 
