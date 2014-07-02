@@ -1,0 +1,26 @@
+{
+    "name": "alterfw/wordpress-for-developers",
+    "description": "A library to create CRUD elements in Wordpress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Pelegrino",
+            "email": "lucas.wxp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alterfw/PHP-Form-Generator-Lib"
+        },
+    ],
+    "require": {
+        "alterfw/php-form-generator": "dev"
+    },
+    "autoload": {
+        "classmap": [
+          "lib/load.php"
+        ]
+    }
+}
