@@ -13,10 +13,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/alterfw/PHP-Form-Generator-Lib"
-        },
+        }
     ],
     "require": {
-        "alterfw/php-form-generator": "dev"
+        "alterfw/php-form-generator": "dev-master"
     },
     "autoload": {
         "classmap": [
