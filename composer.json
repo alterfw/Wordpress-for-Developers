@@ -8,6 +8,9 @@
             "email": "lucas.wxp@gmail.com"
         }
     ],    
+    "require": {
+        "alterfw/php-form-generator": "0.1.x"
+    },
     "autoload": {
         "files": ["lib/load.php"]        
     }    
