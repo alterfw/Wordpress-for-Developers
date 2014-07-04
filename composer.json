@@ -9,6 +9,6 @@
         }
     ],    
     "require": {
-        "alterfw/php-form-generator": "0.1.x"
+        "alterfw/php-form-generator": "dev-master"
     }
 }
