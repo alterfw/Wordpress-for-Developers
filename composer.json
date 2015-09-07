@@ -10,5 +10,8 @@
     ],
     "require": {
         "alterfw/php-form-generator": "^0.1.1"
+    },
+    "autoload": {
+      "files": ["lib/load.php"]
     }
 }
