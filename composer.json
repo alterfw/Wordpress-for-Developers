@@ -7,8 +7,8 @@
             "name": "Lucas Pelegrino",
             "email": "lucas.wxp@gmail.com"
         }
-    ],    
+    ],
     "require": {
-        "alterfw/php-form-generator": "dev-master"
+        "alterfw/php-form-generator": "^0.1.1"
     }
 }
